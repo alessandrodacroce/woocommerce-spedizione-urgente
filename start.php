@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Woocommerce Spedizione Urgente
-Plugin URI: http://www.alessandrodacroce.it/progetto/plugin-woocommerce-spedizione-urgente/
-Description: Aggiunge un costo extra ed indica che la spedizione deve essere urgente, solitamente nelle h24 successive
+Plugin URI: http://www.alessandrodacroce.it/progetto/plugin-woocommerce-attiva-spedizione-urgente/
+Description: Questo plugin abilità un checkbox in fase di checkout dell'ordine affinché il cliente possa segnalare che la spedizione deve essere gestita con priorità alta. Selezionando la spunta viene aggiunto un costo extra per la gestione dell'ordine in "urgenza". La scelta dell'utente viene infine riportata sulla mail di notifica del nuovo ordine.
 Author: Alessandro Dacroce <adacroce [AT] gmail [DOT] com>
 Version: 0.0.2
 Author URI: http://alessandrodacroce.it/
